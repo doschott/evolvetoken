@@ -1,6 +1,6 @@
 John Harrie 2-23-18
 
-****Context****
+++++Context++++
 Dan S
 evolveToken NonTechnical people. 
 There are 20+ people Coworking at the Grand Forks S Wash Starbucks. 
@@ -9,7 +9,7 @@ Why?
 (contributions will be noted in github)
 --For example I think people are willing to pay a higher one time price for a product and service with perceived high value. 
 VS a monthly subscription.
-****Context****
+++++Context++++
 
 JH-
 Culture. 
